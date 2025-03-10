@@ -2,7 +2,7 @@
 
 A comprehensive hospital management system built with modern web technologies. SIMRS helps hospitals digitize and streamline their operations, from patient management to billing.
 
-![SIMRS Dashboard](./generated-icon.png)
+![SIMRS Dashboard](simrs.png)
 
 ## Features
 
