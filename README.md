@@ -133,3 +133,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Shadcn/UI](https://ui.shadcn.com/) for the beautiful UI components
 - [TanStack Query](https://tanstack.com/query/latest) for data fetching
 - [Recharts](https://recharts.org/) for charts and visualizations
+
+silahkan email habizinnia@gmail.com jika butuh repo ini
